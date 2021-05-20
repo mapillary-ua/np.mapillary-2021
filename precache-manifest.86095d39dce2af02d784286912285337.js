@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ed3fbc57b0deba884d2",
+    "revision": "cc1694d6605ba37199f1",
     "url": "/np.mapillary-2021/css/app.475738c0.css"
   },
   {
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/np.mapillary-2021/img/scgis_logo.020d7e85.png"
   },
   {
-    "revision": "cb4ab6bf47e0900d17281eafdac96a94",
+    "revision": "ffe90a6c92e38cc0d1efdc96300baffb",
     "url": "/np.mapillary-2021/index.html"
   },
   {
-    "revision": "8ed3fbc57b0deba884d2",
-    "url": "/np.mapillary-2021/js/app.01a83ac8.js"
+    "revision": "cc1694d6605ba37199f1",
+    "url": "/np.mapillary-2021/js/app.a261a866.js"
   },
   {
     "revision": "2a3d8440484c9afbcedc",
