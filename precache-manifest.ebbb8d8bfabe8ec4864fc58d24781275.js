@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/np.mapillary-2021/manifest.json"
   },
   {
-    "revision": "5b25769a2b4f996d556876801c082dd7",
+    "revision": "2dd9f4d12131c1554cad3e2ff863726c",
     "url": "/np.mapillary-2021/mapillary_data.json"
   },
   {
